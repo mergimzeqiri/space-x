@@ -1,0 +1,26 @@
+.Rocketone {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content:space-evenly;
+}
+.w {
+    display: flex;
+    background-image: url(../../pics/assets/P6Qy9QgewcweJpsXjG2tzL.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    height: 100vh;
+    align-items:flex-end;
+    color: rgba(220, 220, 220, 0.661);
+    padding-bottom: 3cm;
+    justify-content: space-evenly;
+    font-size: larger;
+    width: 100vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
